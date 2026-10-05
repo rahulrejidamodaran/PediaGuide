@@ -1,0 +1,15 @@
+[project]
+name = "pediaguide-ai"
+version = "0.1.0"
+requires-python = "==3.12.14"
+
+dependencies = [
+    "fastapi>=0.142.2",
+    "langchain-huggingface>=1.2.2",
+    "openai>=3.24.0",
+    "pydantic>=2.13.5",
+    "pymupdf4llm>=1.28.2",
+    "qdrant-client>=1.19.1",
+    "sentence-transformers>=6.1.0",
+    "uvicorn>=0.54.0",
+]

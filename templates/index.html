@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>PediaGuide AI</title>
+
+    <link
+        rel="stylesheet"
+        href="/static/css/style.css"
+    >
+
+</head>
+
+
+<body>
+
+<div class="app">
+
+
+    <!-- =====================================================
+         SIDEBAR
+    ====================================================== -->
+
+    <aside class="sidebar">
+
+        <!-- Logo -->
+
+        <div class="logo">
+
+            <div class="logo-icon">
+                P
+            </div>
+
+            <div>
+
+                <h2>
+                    PediaGuide
+                </h2>
+
+                <p>
+                    Pediatric AI Assistant
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- New Chat -->
+
+        <button
+            id="new-chat-btn"
+            class="new-chat-btn"
+            type="button"
+        >
+
+            <span class="plus">
+                +
+            </span>
+
+            New Chat
+
+        </button>
+
+
+        <!-- Conversation heading -->
+
+        <div class="sidebar-title">
+
+            Recent Conversations
+
+        </div>
+
+
+        <!-- Conversations will be loaded here -->
+
+        <div
+            id="chat-history"
+            class="chat-history"
+        >
+
+            <div class="empty-history">
+                No conversations yet.
+            </div>
+
+        </div>
+
+
+        <!-- Sidebar bottom -->
+
+        <div class="sidebar-footer">
+
+            <div class="footer-badge">
+                Evidence Grounded
+            </div>
+
+            <p>
+                PediaGuide uses retrieved medical
+                evidence to answer questions.
+            </p>
+
+        </div>
+
+    </aside>
+
+
+
+    <!-- =====================================================
+         MAIN CONTENT
+    ====================================================== -->
+
+    <main class="main">
+
+
+        <!-- Top bar -->
+
+        <header class="topbar">
+
+            <div class="topbar-title">
+
+                <span class="online-dot"></span>
+
+                PediaGuide AI
+
+            </div>
+
+
+            <div class="topbar-info">
+
+                Newborn – 15 years
+
+            </div>
+
+        </header>
+
+
+
+        <!-- =================================================
+             CHAT AREA
+        ================================================== -->
+
+        <section
+            id="chat-area"
+            class="chat-area"
+        >
+
+
+            <!-- =============================================
+                 WELCOME SCREEN
+            ============================================== -->
+
+            <div
+                id="welcome"
+                class="welcome"
+            >
+
+                <div class="welcome-icon">
+                    P
+                </div>
+
+
+                <h1>
+                    How can I help you?
+                </h1>
+
+
+                <p class="welcome-text">
+
+                    Ask a pediatric health question and
+                    PediaGuide will use its medical
+                    knowledge base to provide
+                    evidence-grounded information.
+
+                </p>
+
+
+                <!-- Age information -->
+
+                <div class="age-info">
+
+                    <div class="age-icon">
+                        👶
+                    </div>
+
+
+                    <div>
+
+                        <strong>
+                            Please mention your child's age
+                        </strong>
+
+                        <p>
+                            This helps PediaGuide retrieve
+                            age-appropriate medical evidence.
+                        </p>
+
+                        <small>
+                            Example:
+                            "My 3-year-old has fever and cough."
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <!-- Example questions -->
+
+                <div class="examples">
+
+
+                    <button
+                        class="example-question"
+                        type="button"
+                        data-question="My 3-year-old child has fever and cough. What should I know?"
+                    >
+
+                        <span>
+                            Fever and cough
+                        </span>
+
+                        <span>
+                            →
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        class="example-question"
+                        type="button"
+                        data-question="My 18-month-old child has diarrhoea. What warning signs should I watch for?"
+                    >
+
+                        <span>
+                            Diarrhoea
+                        </span>
+
+                        <span>
+                            →
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        class="example-question"
+                        type="button"
+                        data-question="My 2-month-old baby is feeding poorly. What should I know?"
+                    >
+
+                        <span>
+                            Baby feeding concern
+                        </span>
+
+                        <span>
+                            →
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        class="example-question"
+                        type="button"
+                        data-question="My 7-year-old child needs vaccination information. What should I check?"
+                    >
+
+                        <span>
+                            Vaccination
+                        </span>
+
+                        <span>
+                            →
+                        </span>
+
+                    </button>
+
+
+                </div>
+
+            </div>
+
+
+
+            <!-- =============================================
+                 CHAT MESSAGES
+            ============================================== -->
+
+            <div
+                id="chat-messages"
+                class="messages"
+            >
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =================================================
+             MESSAGE INPUT
+        ================================================== -->
+
+        <footer class="composer-area">
+
+
+            <form
+                id="chat-form"
+                class="composer"
+            >
+
+
+                <textarea
+                    id="chat-input"
+                    placeholder="Ask a pediatric health question..."
+                    rows="1"
+                    autocomplete="off"
+                ></textarea>
+
+
+                <button
+                    id="send-btn"
+                    class="send-btn"
+                    type="submit"
+                    aria-label="Send message"
+                >
+
+                    ↑
+
+                </button>
+
+
+            </form>
+
+
+            <p class="composer-note">
+
+                For better accuracy, mention your child's age
+                in your first question.
+
+            </p>
+
+
+        </footer>
+
+
+    </main>
+
+</div>
+
+
+<!-- =========================================================
+     JAVASCRIPT
+========================================================== -->
+
+<script
+    src="/static/js/app.js"
+></script>
+
+
+</body>
+
+</html>

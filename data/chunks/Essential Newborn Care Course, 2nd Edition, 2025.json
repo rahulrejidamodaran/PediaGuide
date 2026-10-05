@@ -1,0 +1,1982 @@
+[
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p1_c01",
+    "text": "## **Essential newborn care course** second edition",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 1,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p3_c01",
+    "text": "## **Essential newborn care course**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 3,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p3_c02",
+    "text": "#### second edition",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 3,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p4_c01",
+    "text": "Essential newborn care course, second edition\nISBN 978-92-4-011269-8 (electronic version) ISBN 978-92-4-011270-4 (print version)",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 4,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p4_c02",
+    "text": "###### **© World Health Organization 2025** Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic edition”. Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/). **Suggested citation.** Essential newborn care course, second edition. Geneva: World Health Organization; 2025. Licence: CC BY-NC- SA 3.0 IGO.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 4,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p4_c03",
+    "text": "**Cataloguing-in-Publication (CIP) data.** CIP data are available at https://iris.who.int/. **Sales, rights and licensing**. To purchase WHO publications, see https://www.who.int/publications/book-orders. To submit requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright. **Third-party materials.** If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-partyowned component in the work rests solely with the user. **General disclaimers.** The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement. The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 4,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p4_c04",
+    "text": "names of proprietary products are distinguished by initial capital letters. All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 4,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p4_c05",
+    "text": "###### **Cover photo**\nDirect skin-to-skin contact between mother and newborn baby practised in Dr Jose Fabella Memorial Hospital, Philippines. © WHO / Yoshi Shimizu\nDesign by Laerdal Global Health\nII",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 4,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p5_c01",
+    "text": "### Contents |Ackn|owledg|ements................................................................................................................................................................................ V| |Abbr|eviation|s...........................................................................................................................................................................................VI| |Exec|utive su|mmary...............................................................................................................................................................................VII| |Intro|duction|...............................................................................................................................................................................................X| |**1.**|**Trans**|**forming the approach to education with Essential Newborn Care Course second edition....1**| ||1.1|Addressing the situation.........................................................................................................................................1| ||1.2|Meeting the goal of ending preventable deaths............................................................................................5| ||1.3|Integrating WHO recommendations with a newborn-centred perspective........................................6| ||1.4|Incorporating",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 5,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p5_c02",
+    "text": "contemporary educational methods.....................................................................................8| |**2.**|**Plann**|**ing and implementation of health worker education to improve outcomes........................15**| ||2.1|At the national level, establish a functional maternal/newborn/child health| |||alliance with public, private and nongovernmental partners................................................................15| ||2.2|Form a functional working group at the national level for advocacy, planning,| |||implementation and monitoring of educational activities......................................................................16| ||2.3|Decide on an education implementation strategy.....................................................................................18| ||2.4|Provide appropriately adapted learning materials simultaneously with| |||equipment and supplies to deliver essential newborn care...................................................................19| ||2.5|Identify and support local leaders and champions....................................................................................26| ||2.6|Strengthen local systems for regular education, frequent refreshers| |||and regular debriefing after clinical care and audits.................................................................................27| ||2.7|Support the function",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 5,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p5_c03",
+    "text": "of facility-level quality improvement teams......................................................32| ||2.8|Collect, report and use local data on a standardized set of basic process| |||indicators for care and newborn outcomes..................................................................................................33| ||2.9|Develop a system for bidirectional reporting and feedback to/from| |||all levels of the health system and working group.....................................................................................34| ||2.10|Engage and empower health workers, families and the broader community in the initiative..34| |**3.**|**Linkin**|**g education to functional health care delivery systems........................................................37**| ||3.1|Linking education to functional delivery of essential newborn care...................................................37| ||3.2|Linking newborn and maternal care in health worker education and service delivery................40| ||3.3|Essential newborn care as a foundation for small and sick newborn care.........................................42| References................................................................................................................................................................................................44",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 5,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p6_c01",
+    "text": "Direct skin-to-skin contact between mother and newborn baby practised in Dr Jose Fabella Memorial Hospital, Philippines. © WHO / Yoshi Shimizu\nIV",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 6,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p7_c01",
+    "text": "### Acknowledgements\n**The WHO Department of Maternal, Newborn, Child and Adolescent Health and Ageing gratefully acknowledges the contribution of many individuals and organizations to the second edition of the WHO Essential Newborn Care Course (ENCC).**\n**The WHO steering group** that developed and coordinated the update of ENCC included Queen Dube, Ornella Lincetto and He Tang, with the support of Susan Niermeyer and Helenlouise Taylor.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 7,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p7_c02",
+    "text": "###### **Special thanks go to the following individuals and groups for their contribution to the final materials.** **ENCC Technical Advisory Group** – for members’ contributions at all stages of the update: Jenny Bua, Tedbabe Hailegebriel, Anne Jorunn Svalastog Johnsen, Beena Kamath-Rayne, Marzia Lazzerini, Ornella Lincetto, Karoline Myklebust Linde, Ida Brevinge Neuman, Susan Niermeyer, Janna Patterson, Nalini Singhal, Helenlouise Taylor, Anna af Ugglas and Fabio Uxa. **American Academy of Pediatrics Helping Babies Survive Planning Group** – for integrating Helping Babies Breathe and Helping Babies Survive materials into Essential Newborn Care 1 and 2: Sara Berkelhamer, Carl Bose, Robert Clark, Danielle Ehret, Victoria Flanagan, Beena Kamath-Rayne, William J. Keenan, George A. Little, Douglas McMillan, Hasan Merali, Susan Niermeyer, Jeffrey Perlman, Steven Ringer, Renate D. Savich, Eileen Hopkins Schoen, Nalini Singhal, Michael K. Visick and Julie Wood. **Technical Advisory Group for Interprofessional Midwifery Education Toolkit** – for alignment of newborn and maternal content: Sue Crabtree, Mary Lyn Gaffield, Francis McConville, Nester Moyo, Patricia Titulaer, Meg Towle, Griet Vandevelde and Florence West. **Experts who gave feedback and participated in review and field testing:** Ebun Adejuyigbe, Jamela Al-Raiby, Selebalo Ts’Oarelo Amos, Karen Okutoyi Aura, Mustapha Bello,",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 7,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p7_c03",
+    "text": "Mary Nana Ama Brantuo, Beatrix Callard, Chinyere Ezeaka, Fatima Gohar, Allan Govoga, Leah Greenspan, Kenechukwu Iloh, Joyce Jebet, Ovuoraye John, Martin Chabi Joseph, Jordan Kamanga, Lydia Kelane, Nancy Kidula, Neema Rusibamayila Kimambo, Thabelo Makhupane, Amelia Mashea, Nicole Minckas, Sebonoang Mohlaba, Motebang Osaad Molainyane, Assumpta Muriithi, Caroline Mwangi, Nkaiseng Ngwane, Azubuike Benjamin Nwako, Karen Owende, Michela Papotti, Julia Petty, Sarah Shalongo, Hilma Shikwambi, Khalid Siddeeeg, Julia Thabo, Merran Thomson, Mantsane Tsoloane-Bolepo, Esperanca Van Der Merwe, Scola Wabwire, Rose-Marie De Waldt, Karen Walker and Teshome Desta Woldehanna as well as the staff and participants in field testing at Muhimbili National Hospital, Keffi Regional Medical Center and the All-India Institute of Medical Sciences. Staff in WHO and UNICEF headquarters, regions and countries, the WHO Academy, the WHO Collaborating Centre for Training and Research in Newborn Care (AIIMS), WHO Collaborating Centre for Maternal & Child Health (Instituto per l’Infancia IRCCS Burlo Garofolo), WHO Collaborating Center for Family and Child Health (Colorado School of Public Health), the American Academy of Pediatrics (AAP), the Council of International Neonatal Nurses (COINN), the International Confederation of Midwives (ICM), the International Council of Nurses (ICN), the International Pediatric",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 7,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p7_c04",
+    "text": "Association (IPA), Smile Train and the Every Newborn Action Plan Country Implementation group (ENAP CIG) reviewed the materials and provided input. Special thanks to Anne Jorunn Svalastog Johnsen and Bjørn Mike Boge of Laerdal Global Health for illustrations and educational design, to Global Health Media Project and the WHO Collaborating Centre for Training and Research in Newborn Care (AIIMS) for videos and to UNICEF for videos and photographs. WHO acknowledges and thanks the United Kingdom Foreign, Commonwealth and Development Office, Laerdal Foundation and the United States Agency for International Development for financial support for this work. VV",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 7,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p8_c01",
+    "text": "### Abbreviations |**AAP**|American Academy of Pediatrics| |**ANA**|African Neonatal Association| |**ASHA**|Accredited social health activist| |**CLAP**|Centro Latinoamericano de Perinatología| |**COINN**|Council of International Neonatal Nurses| |**CPAP**|Continuous positive airway pressure| |**DHS**|Demographic and Health Survey| |**EENC**|Early essential newborn care| |**ENAP**|Every Newborn Action Plan| |**ENC**|Essential newborn care| |**ENCC**|Essential Newborn Care Course| |**GHMP**|Global Health Media Project| |**HBB**|Helping Babies Breathe| |**HBS**|Helping Babies Survive| |**HMIS**|Health management information system| |**HRH**|Human resources for health| |**ICM**|International Confederation of Midwives| |**ICN**|International Council of Nurses| |**IPA**|International Pediatric Association| |**IRIS**|Institutional repository for information sharing| |**KMC**|Kangaroo mother care| |**MICS**|Multiple Indicator Cluster Survey| |**MPDSR**|Maternal Perinatal Death Surveillance and Response| |**PDSA**|Plan, do, study, act| |**POCQI**|Point-of-care quality improvement| |**RMNCH**|Reproductive, maternal, newborn and child health| |**SDG**|Sustainable Development Goal| |**UHC**|Universal health coverage| |**UN**|United Nations| |**UNFPA**|United Nations Population Fund| |**UNICEF**|United Nations Children’s Fund| |**WASH**|Water, sanitation and hygiene| |**WHO**|World Health",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 8,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p8_c02",
+    "text": "Organization| VI",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 8,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p9_c01",
+    "text": "### Executive summary\nEssential Newborn Care Course second edition provides policy-makers and programme managers, faculty in academic institutions, educational course organizers and facilitators with:\n- guidance on implementing Essential Newborn Care Course (ENCC) second edition as part of broader efforts around health worker education and newborn service delivery;\n- a repository for access to all Essential Newborn Care Course educational materials and implementation resources; and\n- support for the principles of essential newborn care as the foundation for quality care of all newborns.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 9,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p9_c02",
+    "text": "##### **Transforming the approach to education with Essential Newborn Care Course second edition**\nEnding preventable deaths of newborns and setting them on a path to thrive is the goal of essential newborn care. Achieving this goal requires addressing the global burden of newborn deaths and stillbirths, the numbers and competencies of the health workforce, and the gap between knowledge and performance in the clinical setting. Essential Newborn Care Course second edition addresses all these topics and establishes the foundation of quality care for all newborns, whether healthy and well-grown or small and sick. Essential Newborn Care Course second edition integrates WHO guidelines, recommendations and quality of care standards with a newborn-centred perspective, emphasizing the right to respectful, nurturing care. It is competency-based and incorporates contemporary educational methods including peer learning, simulation for skill-building and team performance, reflective debriefing and integration with facility-based quality improvement.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 9,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p9_c03",
+    "text": "##### **Planning and implementation of health worker education to improve outcomes**\nThe aim of the ten steps for planning and implementing health worker education is to improve newborn outcomes.\n1. At the national level, establish a functional maternal/newborn/child health alliance with public, private and nongovernmental partners.\n2. Form a functional working group at the national level for advocacy, planning, implementation and monitoring around educational activities.\n3. Decide on an education implementation strategy.\n4. Provide appropriately adapted learning materials simultaneously with equipment and supplies to deliver essential newborn care.\n5. Identify and support local leaders and champions.\nVII",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 9,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p10_c01",
+    "text": "6. Strengthen local systems for regular education, frequent refreshers, regular debriefing after clinical care and audits.\n7. Support the function of facility-level quality improvement teams.\n8. Collect, report and use local data on a standardized set of basic process indicators for care and newborn outcomes.\n9. Develop a system for bidirectional reporting and feedback to/from all levels of the health system and working group.\n10. Engage and empower health workers, families and the broader community in the initiative.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 10,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p10_c02",
+    "text": "##### **Linking education to functional health care delivery systems**\nAchieving the goals of newborn survival and quality of survival requires not just educational effectiveness and efficiency, but also local implementation of best practices in health care delivery. A health systems approach with simultaneous action on policy, administration, finances, infrastructure, human resources, data management, equipment and supply logistics is necessary to support clinical service delivery. High-quality newborn care also demands linkage of maternal and newborn care in the facility; this includes building a common knowledge base and skill set among health workers, as well as communication and teamwork. The physical infrastructure of health facilities and organization of transport systems should support a zero-separation model. Finally, successful local implementation of essential newborn care forms the foundation for special care of small and/or sick newborns: Essential Newborn Care Course second edition develops the necessary assessment and reassessment skills, and the ability to formulate a plan that emphasizes kangaroo mother care and provides support for breastfeeding and breast-milk feeding.\nVIII",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 10,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p11_c01",
+    "text": "Kangaroo mother care positioning in Da Nang Hospital for Women and Children, Viet Nam. © WHO / Gato Borrero\nIX",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 11,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p12_c01",
+    "text": "### Introduction\nThe first edition of the WHO Essential Newborn Care Course was published in 2010. The second edition integrates WHO guidelines, recommendations, quality-of care standards and materials updated since 2010. The educational materials are newborn-centred, addressing the newborn’s right to high-quality, respectful care. The setting of the course has been shifted from the classroom to health facilities and varied contexts in which newborns receive care, including humanitarian situations.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 12,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p12_c02",
+    "text": "##### **The purpose of this document is to:**\n- guide countries and programmes in implementing the Essential Newborn Care Course second edition as part of broader efforts around health worker education and newborn service delivery;\n- provide a repository for access to all educational materials that make up the Essential Newborn Care Course second edition as well as implementation resources; and\n- articulate the principles of essential newborn care as the foundation for quality care of all newborns, whether healthy or small and/or sick.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 12,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p12_c03",
+    "text": "##### **The document targets a broad audience of users**\n- Policy-makers and programme managers at national, subnational and local levels (including governmental and nongovernmental organizations) will find policy and strategy rationale, practical guidance on programme planning and implementation and considerations for health care delivery systems (sections 1-3).\n- Faculty in academic institutions and persons delivery health worker education programmes will find specific sections on the planning and implementation of essential newborn care in their particular settings (section 2).\n- Essential Newborn Care Course organizers and facilitators (from facilities, academic institutions, professional associations and the community) will find guidance on implementation, monitoring and evaluation as well as direct links to educational materials (section 2).\nX",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 12,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p13_c01",
+    "text": "##### **How this Essential Newborn Care Course, second edition was developed** Development of the Essential Newborn Care Course second edition started in 2017 with collaboration between WHO and the American Academy of Pediatrics (AAP). In 2019 the WHO Regional Office for Africa coordinated field-testing of Essential Newborn Care 1 and 2 in the United Republic of Tanzania. A scoping review identified all guidelines, standards, indicators and materials related to newborn care, newborn-centred care, newborn survival, morbidity, disability and development that had been updated since the first edition in 2010. New educational methodologies field-tested as part of the WHO Essential Childbirth Care Course in Telangana, India, in 2020 were integrated into the ENCC, and additional structured simulations linked to performance outcomes were added. Online review and virtual testing of the materials under development in 2022 involved clinical educators and practitioners in Namibia, Lesotho, Nigeria and Kenya. Structured feedback from experts and participants was collated and incorporated into the thematic modules, assessments and implementation guidance for countries. Face-to-face field-testing of the thematic modules was carried out in 2023 in Nigeria, prompting development of new material on data collection and use and extensive revision of facilitator guidance. Additional fieldtesting",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 13,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p13_c02",
+    "text": "with both pre-service and in-service participants took place later in 2023 in India, which further informed facilitator and implementation resources. XI",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 13,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p14_c01",
+    "text": "After 10 hours in labour Rahel gave birth to Alazar, a baby boy weighing 2300 g. The baby did not breathe at birth.\nTwo-month-old baby Alazar is in his mother Rahel's arms, while his father Worku stands proudly behind them, Ethiopia. © Laerdal Global Health",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 14,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p15_c01",
+    "text": "**1**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 15,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p15_c02",
+    "text": "### Transforming the approach to education with Essential Newborn Care Course second edition",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 15,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p15_c03",
+    "text": "#### 1.1 Addressing the situation Ending the preventable deaths of newborns and setting them on the pathway to thriving is the goal of essential newborn care. Achieving this goal requires addressing: Global burden of disease – Each day more than 6000 neonates, 5000 stillbirths and 700 women die from causes related to pregnancy and birth according to 2023 estimates ( _1,2_ ). Essential newborn care directly addresses the high proportion of deaths that occur around childbirth. Providing stabilization and life-saving interventions such as immediate drying and skin-to-skin contact to avoid hypothermia, delayed umbilical cord clamping and early initiation of breastfeeding keep newborns healthy. Basic neonatal resuscitation directly addresses newborns who are not breathing at birth, reducing potential misclassification as stillbirths and preventing disability from delayed intervention. Kangaroo mother care addresses the primary needs of many low-birthweight and preterm newborns (nutrition, warmth, prevention of infection, nurturing care) and extends these benefits through the first month after birth. Number and competencies of health workers – An estimated shortfall of 11.1 million health workers by 2030 is compounded by not all health workers having the needed competencies ( _3,4_ ). Essential newborn care addresses the core competencies for providing maternal/newborn care in",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 15,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p15_c04",
+    "text": "midwifery, nursing, and medical and community health curricula. Preparing students with knowledge and skills before they assume responsibility for clinical care, then reinforcing their learning with fully aligned orientation and refresher education in the health facility most efficiently maintains skills and competencies and fosters interprofessional teamwork. 1",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 15,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p16_c01",
+    "text": "**Essential newborn care course - second edition**\nA nurse-midwife holds a limp newborn who is not breathing at birth in Maseru, Lesotho.. © Los Angeles Times / Francine Orr\nThe baby who is not breathing at birth will die unless the health worker starts effective ventilation quickly. The baby may be wrongly classified as stillborn and not recorded anywhere.\n2",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 16,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p17_c01",
+    "text": "**1. Transforming the approach to education**\nKnow-do gap – What health workers know is not always reflected in what they do. Of 8.6 million unnecessary deaths/year, 5 million are due to poor quality care and 3.6 million to non-utilisation of health care ( _5_ ).\nEducation in essential newborn care provides the framework for identifying gaps in quality care, and Essential Newborn Care Course second edition provides reliable methods for pinpointing quality improvement priorities that lead to a change in performance. Education based in the facility can result in improved availability of equipment and supplies, better workflow, more complete and accurate recording of data, as well as more responsive use of data.\nPreventable deaths of newborns are often related to acute situations at birth and problems in the first days. The life of the newborn depends on the competencies of the health worker who is present and the facility’s readiness to deliver care.\nDoes the health worker understand the life-threatening situation?\nDoes the health worker know what to do and how to do it?\nCan the health worker deliver the necessary care in the facility?\n3",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 17,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p18_c01",
+    "text": "Meskerem, a nurse trained in essential newborn care, resuscitated baby Alazar. His parents are very thankful to Meskerem for saving their baby.\nEssential Newborn Care Course second edition directly addresses the need to educate more health workers, equip them with not only knowledge but also skills, and translate their knowledge and skills into improved performance and outcomes.\nNurse Meskerem is delighted to hold baby Alazar, whom she successfully resuscitated, Ethiopia. © Laerdal Global Health",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 18,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p19_c01",
+    "text": "**1. Transforming the approach to education**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 19,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p19_c02",
+    "text": "#### 1.2 Meeting the goal of ending preventable deaths The essential newborn care approach serves as the foundation of quality care for all newborns. Whether healthy and well-grown or small and sick, all newborns need skilled attention at birth, a clean and safe environment, warmth, adequate nutrition, and prompt recognition and management of problems. However, essential newborn care alone is not sufficient to attain the goal of ending preventable newborn deaths. Essential care of the newborn must be linked to quality care of pregnant and parturient women and include scale-up of care for small and sick newborns in order to end preventable maternal and newborn deaths. Sustainable Development Goal targets for maternal health and child mortality and Every Newborn Action Plan (ENAP) global, national and subnational targets for neonatal mortality and stillbirths set benchmarks for ending preventable maternal and newborn deaths ( _6,7_ ). Targets for 2030 - SDG Target 3.1 – to reduce the global maternal mortality ratio to less than 70 per 100 000 live births - SDG Target 3.2 – to reduce neonatal mortality to at least as low as 12 per 1000 live births and under-five mortality to at least as low as 25 per 1000 live births - ENAP Target for stillbirth – to reduce stillbirths at 28 weeks or more of gestation to 12 or less per 1000 live births Essential Newborn Care Course second edition",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 19,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p19_c03",
+    "text": "directly addresses the need to educate more health workers, equip them with not only knowledge but also skills, and translate their knowledge and skills into performance and improved outcomes. It is designed for all health workers who care for newborns – midwives, nurses, physicians (medical officers, paediatricians, obstetricians) and other cadres, including auxiliaries and community health workers. Essential Newborn Care 1 begins with care in the first 60 minutes: Immediate Care and Helping Babies Breathe at Birth. Essential Newborn Care 2 continues with care from 60 to 90 minutes up to and including discharge from the facility and the first month: Assessment and Continuing Care. Three crosscutting modules address the foundation for quality in all newborn care and ten thematic modules explore specific issues. The competencies, infrastructure, equipment and commodities required can also serve to reinforce the framework for RMNCH planning and service delivery. Successful implementation of Essential Newborn Care Course second edition demands country-led commitment through policy, guidelines, protocols, curricula and funding in combination with follow-up to foster local accountability and ownership. Each country needs to identify its own gaps, including disaggregation of data to highlight subnational conditions, so that education supports defined service delivery packages and",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 19,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p19_c04",
+    "text": "patient outcome goals. Context, existing systems and available financial resources will influence how health worker education is adopted and institutionalized. 5",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 19,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p20_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 20,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p20_c02",
+    "text": "#### 1.3 Integrating WHO recommendations with a newborn-centred perspective\nEssential Newborn Care Course second edition integrates WHO guidelines, recommendations, quality-of-care standards and other guidance materials published since 2010. The educational materials reflect a newborncentred perspective (Fig. 1), emphasizing the right to respectful, nurturing, high-quality care. The scope of updates and changes is suggested in the following summary of thematic areas. Direct links to source documents in each of these areas are found in the educational materials.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 20,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p20_c03",
+    "text": "###### **Fig. 1 Newborn-centred perspective**\nData and Standards/metrics qualityContent andQuality provisionimprovement of careRespectfulcare andBirth defectscommunicationKangarooNurturingmother carecareWASH inhealth Breastfeedingfacilities\n6",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 20,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c01",
+    "text": "**1. Transforming the approach to education**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c02",
+    "text": "###### **Standards/quality**\nStandards for improving the quality of maternal and newborn care in health facilities applicable to all newborns, and in particular small and sick newborns, with human resource strategies to accomplish them",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c03",
+    "text": "###### **Respectful care and communication**\nRespectful maternal and newborn care that prevents and eliminates disrespect and abuse during childbirth and integrates perinatal mental health in maternal and child health services",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c04",
+    "text": "###### **Breastfeeding**\nProtecting, promoting and supporting breastfeeding in facilities for all newborns – healthy, term, small or sick – and providing counselling and practical support to mothers enabling them to avoid use of breast-milk substitutes",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c05",
+    "text": "###### **Content and provision of care**\nRecommendations on health promotion interventions for maternal and newborn health, care of the preterm or low-birthweight infant, and the continuum of antenatal, intrapartum and postnatal care with emphasis on not only quality of care but experience of care",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c06",
+    "text": "###### **Kangaroo mother care**\nTransformation of kangaroo mother care from a limited style of care delivery to the standard of care for small and sick newborns to advance toward the goal of zero separation",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c07",
+    "text": "###### **WASH in health facilities**\nGuidelines for hand hygiene, infection prevention and control in perinatal areas, and environmental cleaning",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c08",
+    "text": "###### **Nurturing care**\nNurturing care for every newborn to improve early childhood development",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c09",
+    "text": "###### **Quality improvement**\nImproving the quality of care for mothers, newborns and children in health facilities through point-of-care quality improvement and engagement of stakeholders and community",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c10",
+    "text": "###### **Birth defects**\nBirth defects surveillance",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p21_c11",
+    "text": "###### **Data and metrics**\nAnalysis and use of health facility data, maternal and perinatal death surveillance and response and strengthening of routine health information systems\n7",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 21,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p22_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 22,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p22_c02",
+    "text": "#### 1.4 Incorporating contemporary educational methods\nEssential Newborn Care Course second edition integrates the contemporary WHO Learning Strategy and is competency-based, following the WHO Global Competency Framework for Universal Health Coverage (UHC).\n- The WHO Learning Strategy has as its principles to:\n- achieve global, national and individual goals for public health through a culture of lifelong learning;\n- expand learning ecosystems through evidence-based approaches to support lifelong learning in health;\n- aim for equity, design for competency and implement at scale in learning organizations;\n- engage a broad health workforce (clinical service delivery, public health, emergency) and address the health literacy of individuals; and\n- promote equity, capacity, transparency, participation and excellence.\n© World Health Organization 2023 All rights reserved April 2023\nCourse participants practising steps in the algorithm of Essential Newborn Care 1 to increase skills competency. © Laerdal Global Health\n8",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 22,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p23_c01",
+    "text": "**1. Transforming the approach to education** The global competency framework for UHC identifies an approach to education pathways that emphasizes the domains of people-centredness, decision-making, communication, collaboration, evidence-informed practice and personal conduct. This approach is reflected in Essential Newborn Care competencies for participants and Essential Newborn Care competencies for facilitators that accompany the educational materials. Essential Newborn Care Course second edition is built upon the most current science- and evidence-informed educational methods. Field-testing and implementation trials have demonstrated high learner satisfaction, confidence and increased knowledge and skills scores. It begins with health worker education but extends beyond the classroom to maintain and build skills, change performance in daily delivery of care, identify gaps in quality, make changes that result in improved health outcomes, and institutionalize a culture of continued learning and improvement. By following the circle of learning and improvement (Fig. 2), Essential Newborn Care Course second edition aims to build competencies that save lives and help all newborns reach their full potential. **Fig. 2 The circle of learning reflects the continuing process of attaining, enhancing and maintaining clinical competencies.** UpdatingknowledgeCircle oflearning",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 23,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p23_c02",
+    "text": "andImproving care Mastering skillsimprovementClinical Practising inexperience teams 9",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 23,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p24_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 24,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p24_c02",
+    "text": "##### **Design of educational materials**\nEvidence from implementation trials of health worker education in perinatal care informs the design of Essential Newborn Care Course learning materials, educational methods and the integration of educational activities with quality improvement efforts.\nSimple, visual algorithms link health worker interventions to the newborn’s condition through evaluation/ decision/action cycles (Fig. 3).",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 24,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p24_c03",
+    "text": "###### **Fig. 3 Essential Newborn Care 1 and 2 use simple, visual algorithms to present evaluation/decision/action cycles.**\n© World Health Organization 2023 All rights reserved April 2023 © World Health Organization 2023 All rights reserved April 2023\nEducation focuses on assessment, decision-making and skills. Flexible materials (print, digital, online) and educational tools (mannequins, models) permit on-site education, ongoing refresher practice, and scalability at low cost. Although education may result in demonstrated improvement in skills, often there is decay in skills over time and no change in performance in the clinical setting ( _8_ ).",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 24,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p24_c04",
+    "text": "###### **In order to translate skills into performance, there is a need to:**\n- practise frequently in the real setting;\n- feel supported by leaders in the health facility; and\n- gain everyone’s participation in education, even the most senior doctors, midwives and nurses.\n10",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 24,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p25_c01",
+    "text": "**1. Transforming the approach to education**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 25,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p25_c02",
+    "text": "##### **Importance of refresher practice**\nEstablishing a routine of regular, brief practice maintains proficiency in life-saving skills. Designated skill areas in the labour ward provide access to educational materials and facilitate frequent practice. Institution of routine low-dose, high-frequency practice in several Tanzanian hospitals resulted in a change in resuscitation performance, with a 25% reduction in stillbirths and 40–80% reduction in very early neonatal mortality. However, starting ventilation late and pausing ventilation frequently were still associated with unfavourable outcomes ( _8,9_ ).",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 25,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p25_c03",
+    "text": "###### **In order to improve performance, there is a need to:**\n- practise with feedback to achieve skills mastery, not just maintenance; and\n- improve clinical equipment and organization to ease the burden\n- for health workers and help them provide care efficiently.\nHealth workers practising ventilation in the labour ward as part of low-dose, high-frequency, peer-to-peer practice, Ethiopia.\n© Laerdal Global Health\n11",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 25,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p26_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 26,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p26_c02",
+    "text": "##### **Low-dose, high-frequency practice focused in response to clinical outcomes**\nCollecting data on process and outcome measures identifies gaps in performance and workflow as well as skills technique. Customizing educational content to address observed gaps creates change efficiently. Charting performance and outcomes of resuscitation monthly by using statistical process control methods led to an increase in perinatal survival directly correlated with low-dose, high-frequency practice in Nepal. Nevertheless, ventilation started late in some cases ( _10,11_ ).",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 26,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p26_c03",
+    "text": "###### **In order to improve performance further, there is a need to:**\n- continue individual or peer-to-peer practice plus clinical feedback; and\n- practise team function and communication, including nonjudgemental reflective debriefing.\nYoung course participant practising newborn resuscitation at the Muhimbili Hospital, United Republic of Tanzania. © Laerdal Global Health\n12",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 26,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p27_c01",
+    "text": "**1. Transforming the approach to education**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 27,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p27_c02",
+    "text": "##### **Simulation in teams combined with low-dose, high-frequency practice**\nRegular team simulations led by local facilitators lead to improved team functioning. Culture change that supports regular, independent refresher practice at skills stations maintains individual skills. Collection of clinical performance data from observers or mobile applications individualizes performance feedback. Developing a system of team simulation helped improve coordination and communication issues and resolve system barriers so that the median time to ventilation dropped from 100 to 55 seconds and fresh stillbirths decreased significantly in a network of Tanzanian hospitals ( _12,13_ ).",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 27,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p27_c03",
+    "text": "###### **In order to maintain performance, there is a need to:**\n- continue to address observed gaps and barriers in the system; and\n- incorporate new personnel into team simulations.\nFaculty prepare for practical sessions and simulations in the field linked to handover of mobile clinics, Hayan, Philippines. © Helenlouise Taylor",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 27,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p27_c04",
+    "text": "##### **Mentoring and in situ coaching for continued care skills in the facility**\nIn addition to team simulations, coaching and mentoring in the health facility can maintain and improve the performance of many skills that are part of continued care in the facility. Staff coaching, quality improvement assessments and changes in hospital protocols and environments were associated with improved care at delivery, rates of early and prolonged skin-to-skin contact and early breastfeeding in several countries in the Asia-Pacific region ( _14–16_ ). The duration of uninterrupted skin-to-skin contact correlated directly with the rate of early initiation of breastfeeding through 90 minutes after birth and exclusive breastfeeding at discharge following both vaginal and caesarean birth.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 27,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p27_c05",
+    "text": "###### **In order to maintain performance, there is a need to:**\n- continue to address observed gaps and barriers in the system; and\n- Incorporate new personnel into mentorship and coaching activities.\n13",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 27,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p28_c01",
+    "text": "**Essential newborn care course - second edition**\nNursing school attached to Kitatumba Hospital, Butembo, Democratic Republic of Congo. © WHO / Hugh Kinsella Cunningham\n14",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 28,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p29_c01",
+    "text": "# **2**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 29,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p29_c02",
+    "text": "### Planning and implementation of health worker education to improve outcomes - 2.1 At the national level, establish a functional maternal/newborn/child health alliance with public, private and nongovernmental partners Leadership is central to the coordination and scale necessary to achieve impact from educational interventions. Even more, national leadership underpins institutionalization of the processes necessary to sustain that impact. Resource mobilization for education may require agreements among the government, public health partners and donors. Revision or adoption of policies and programme structures supporting education, as well as clinical and operational guidelines and protocols, helps to accelerate and make sustainable change at the subnational and facility level. High-level advocacy and communication create ownership and commitment throughout the country. Although most countries have such a maternal/newborn/child health alliance, its functionality and representation may need to be renewed or strengthened. Planning to improve essential newborn care should extend across national planning and budgeting for reproductive, maternal, newborn and child health (RMNCH), nutrition, universal health coverage (UHC), quality improvement programmes, and medical and allied professional training. Coordination of maternal and newborn educational activities and programming",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 29,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p29_c03",
+    "text": "addressing care around birth recognizes their interdependence and represents an efficient use of resources. Regional alliances of several countries aligned by geography and/or language can address common gaps and goals and share implementation experiences. Regional efforts can provide important momentum for initial dissemination and a collaborative mechanism for sharing facilitator expertise, translations, educational data tracking, and programming for humanitarian settings and marginalized populations. Regional administrative structures and meetings of UN agencies, professional organizations, and public health and medical societies can be engaged in support of ENCC dissemination and replication. 15",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 29,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p30_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 30,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p30_c02",
+    "text": "#### 2.2 Form a functional working group at the national level for advocacy, planning, implementation and monitoring of educational activities Central to the success of educational programming is a well-defined national plan based on a comprehensive RMNCH perspective, informed by situational assessment, accountable for achievable goals and timelines, and overseen by a working group at the national level. Key leadership from the Ministry of Health should be complemented by members from other ministries, such as the Ministry of Education. Advisory group representation should be broad and include professional associations and health-care professionals (nurses, midwives, paediatricians, obstetricians and anesthetists) from public and private sectors, frontline health workers (including community health workers) and student representatives, parents and community members. Stakeholders bring a broad range of considerations that reflect the real situation in the country, and they build consensus, ownership and commitment to the plan. As a first step, the national working group will generally assess the current status of essential newborn care implementation and identify gaps in the current system. Review of available data sources addressing the major causes of neonatal morbidity and mortality will guide the prioritization of educational interventions. Data sources may include the",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 30,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p30_c03",
+    "text": "national Every Newborn Action Plan (ENAP), national and subnational HMIS coverage data; national and subnational mapping of mortality, morbidity, disability and effective coverage of maternal and newborn interventions (Countdown 2030), health facility and population-based surveys (MICS and DHS), and annual hospital implementation plans and reviews for Early Essential Newborn Care (EENC). If these data are not available, a situation analysis and/or health facility surveys using validated instruments can provide valuable insights. Surveying existing policies, guidelines, protocols and educational materials serves to highlight potential Essential Newborn Care Course connections with ongoing activities and to re-align national treatment guidelines, policies or professional competencies if necessary. There may be an opportunity to establish or review and update performance standards for essential newborn care. In addition to revising in-service educational materials, the working group should promote the review and alignment of pre-service curricula. Setting specific goals for ENCC implementation involves defining where you are and where you want to be. The goals should reflect the identified health priorities as well as the resources available. Current programming can be leveraged to support ENCC implementation to make use of available resources while identifying potential",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 30,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p30_c04",
+    "text": "additional resources for education. Targeting outcomes that have shown little improvement opens the way for large gains and may suggest that the plan should focus on certain conditions, population groups or geographical areas. To accompany the educational goals, a financial plan ought to be developed to address not only initial dissemination, but continued implementation of educational programming and institutionalization of structures that assure sustainability. Oversight of the dissemination and implementation process as well as of educational and clinical outcomes constitutes the long-term activity of the working group. Adherence to the performance and timeline 16",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 30,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p31_c01",
+    "text": "**2. Planning and implementation**\nobjectives of the educational plan should be coupled with review of educational output and outcomes (numbers trained, successful completion) and connected with clinical outcomes. Documenting and sharing lessons learnt from implementation of the educational plan can serve as powerful advocacy tools and guidance for future efforts within the country and through the region. Such reporting also promotes the health system changes needed to ensure long-term sustainability of successful educational programming.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 31,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p31_c02",
+    "text": "##### **10 steps guide planning and implementation of health worker education to improve outcomes (** _17_ **).**\n1. At the national level, establish a functional maternal/ newborn/child health alliance with public, private and nongovernmental partners.\n2. Form a functional working group at the national level for advocacy, planning, implementation and monitoring of educational activities.\n3. Decide on an education implementation strategy.\n4. Provide appropriately adapted learning materials simultaneously with equipment and supplies to deliver essential newborn care.\n5. Identify and support local leaders and champions.\n6. Strengthen local systems for regular education, frequent refreshers and regular debriefing after clinical care and audits.\n7. Support the function of facility-level quality improvement teams.\n8. Collect, report and use local data on a standardized set of basis process indicators for care and newborn outcomes.\n9. Develop a system for bidirectional reporting and feedback to/ from all levels of the health system and working group.\n10. Engage and empower health workers, families and the broader community in the initiative.\n17",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 31,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p32_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 32,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p32_c02",
+    "text": "#### 2.3 Decide on an education implementation strategy The strategy for implementing the national plan for the Essential Newborn Care Course accounts for all levels in the health system, public and private health care delivery facilities and academic institutions, and the range of health workers providing care around birth; it links with systems of quality improvement and continuing professional development and/or accreditation. The expectation should be that all health workers who care for newborns have current competencies in their scope of practice. Essential Newborn Care Course implementation may be integrated into an existing strategy or function to update a previous strategy. Implementation may proceed in a cascade from national to facility level or it may be phased geographically or prioritized by groups with the greatest need or lowest health indicators. The strategy should build capacity at all levels by promoting high-quality facilitation and high coverage with education. Capacity-building includes champions who lead educational efforts, facilitators, health workers, and women and families. Capacity-building extends beyond ENCC to other educational interventions by strengthening leadership and organizational skills, pedagogical methods, the knowledge base and health literacy. In order to achieve population-level and sustainable impact, the implementation strategy",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 32,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p32_c03",
+    "text": "must include both public and private health facilities providing newborn services. While in-service education requirements may be set at the national level for public facilities, private health facilities may follow guidance from accrediting bodies or staff may comply with continuing professional development requirements for licensing or certification. Interprofessional in-service education should emphasize team functioning in the care of newborns, and their mothers and families. This includes nursing, midwifery, medical and allied health professionals, as well as other cadres caring for newborns and mothers during childbirth and the first month of life (e.g. birth attendants, auxiliary midwives or auxiliary nurses). Those who supervise the care of newborns, such as medical officers, paediatricians, obstetricians, and neonatologists, also need good practical knowledge of ENCC materials and current guidelines so they can effectively supervise and improve the quality of care as part of their routine daily work. Pre-service education using ENCC content and methods is vital to prepare those who will care for newborns with the knowledge, skills, and competencies they will need before they assume responsibility for patients. Essential Newborn Care Course provides an educational framework that can first be built during pre-service education, strengthened during orientation and",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 32,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p32_c04",
+    "text": "in-service education, and adapted to become process and outcome indicators for quality improvement in the delivery of clinical care. Selected ENCC content can be used to reinforce ongoing educational programming for a variety of cadres, including skilled birth attendants, community health workers, and auxiliary nurses and midwives. Integration of essential newborn care into midwifery pre-service education curricula is vital to achieving the core competencies, as defined by the International Confederation of Midwives. 18",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 32,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p33_c01",
+    "text": "**2. Planning and implementation**\n- 2.4 Provide appropriately adapted learning materials simultaneously with equipment and supplies to deliver essential newborn care\nNursing students carrying equipment received at Haydom Nursing School, United Republic of Tanzania. © Laerdal Global Health\nTo be effective, education in essential newborn care must reflect the context in which care is provided, and health workers must have the necessary equipment and supplies to actually deliver essential newborn care in the health facility where they work. Adaptation of learning materials includes communication of national standards, guidelines and goals to all participants and translation into the language used by health workers. Simultaneous availability of education and equipment and supplies to deliver care calls for needs assessments of facilities in advance of educational activities.\n19",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 33,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p34_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 34,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p34_c02",
+    "text": "###### **This document serves as an archive of educational materials for Essential Newborn Care Course second**\n**edition**. The primary components of the educational materials are accessible in digital format on the WHO Essential Newborn Care Course second edition materials webpage. Most materials may be used in either digital or printed format, and print files are provided along with their production specifications. Files suitable for high-volume printing can be found at the bottom of this webpage. The digital repository also facilitates periodic updating of content. All materials are available in English, and translations into WHO languages will be posted alongside the English documents as they become available through the WHO Institutional Repository for Information Sharing (IRIS).\nTap or click any image below to access and download the resource.\n**Essential Newborn Care 1**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 34,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p34_c03",
+    "text": "##### **Essential Newborn Care 2**\n© World Health Organization 2023 All rights reserved April 2023 © World Health Organization 2023 All rights reserved April 2023Essential Newborn Care 1 Essential Newborn Care 2Immediate Care and Helping Babies Breathe at Birth Assessment and Continuing CareFlipchart FlipchartEssential Newborn Care 2SIMULATION PRACTICE CARDSSIMULATION PRACTICE CARDS Essential Newborn Care 1 Quick, hands-on practice of Assessment and Continuing Care • Learning cases for two or three people• Based on situations that providers encounter in the health facility Baby and motherhome careEssential Newborn Care 1 Essential Newborn Care 2Immediate Care and Helping Babies Breathe at BirthProvider Guide Assessment and Continuing CareProvider Guide The recommended management of the cases is based on WHO guidelinesQuick, hands-on practice of Immediate Care andHelping Babies Breathe at Birth• Based on situations that providers • Learning cases for two or three peopleencounter in the health facilityThe recommended management of the cases is based on WHO guidelines\n20",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 34,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p35_c01",
+    "text": "**2. Planning and implementation**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 35,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p35_c02",
+    "text": "##### **Cross-cutting and thematic modules**\nTap or click any image below to download the resource.\nInfection prevention for newborns Communication and respectful care Data collection and usePage 1 Page 1 Page 1\nPreparation for birth Immediate care at birth Basic resuscitation of the newborn Keeping the newborn warmPage 1 Page 1 Page 1 Page 1Examination of the newborn Breastfeeding: Breastfeeding: Breast milk feeding:Ensuring a good start Overcoming difficulties Alternative methodsPage 1 Page 1 Page 1 Page 1Discharge and follow-upQuality improvement Kangaroo mother carePage 1 Page 1",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 35,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p35_c03",
+    "text": "##### **Overview and facilitation**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 35,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p35_c04",
+    "text": "##### **Facilitation resources**\nEssential Newborn Care CourseSecond edition Essential Newborn Care CourseSecond editionOverviewENCC at a Glance\n- Worksheets\n- Assessments and surveys\n- Materials, equipment and agendas\n- Clinical Practice Cards\n- Videos\n- Simulations\n- QI templates.\n21",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 35,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p36_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 36,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p36_c02",
+    "text": "###### **Simultaneous delivery of education and availability of equipment and supplies** for both education and clinical care requires careful advance planning. Beginning with a needs assessment of facilities provides detailed information on: - estimated number and distribution of health workers who will participate in ENCC; - available teaching materials such as mannequins, models, - equipment/supplies and disposables for simulations; - available clinical equipment and supplies (including medications) for essential newborn care; - preferred format for educational materials (print, digital, online learning management system); and - current system for reporting standardized educational process and outcome measures (course dates, participants, successful completion and scores, continuing professional development credit hours). **Procurement of teaching materials** requires estimation of both the number of training sites (health facilities) and the number of health workers to be trained at each site. Educational materials should be sufficient for the planned course size; mannequins and other teaching material should be continuously available between educational sessions to facilitate practice. Equipping a designated skills practice area will ensure that health workers can maintain their skills by practising regularly with their peers. Obtaining a spare mannequin for replacement of",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 36,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p36_c03",
+    "text": "one damaged in use and planning for phased renewal of teaching materials are strategies that improve ENCC sustainability. The newborn mannequin for neonatal resuscitation should be realistic in size, weight and appearance. It should facilitate effective bag and mask ventilation, with chest rise only when the correct technique is applied. Mannequins for teaching kangaroo mother care and alternative methods of feeding should be small in size and weight, flexible enough to be secured in the kangaroo position and suitable for placement of a feeding tube. If mannequins need to be procured from outside the country, adequate time should be allowed for shipping and customs clearance, and the budget should include shipping costs and import duties unless educational materials are exempt. Countries prioritized for improvement of neonatal mortality can procure some mannequins and resuscitation equipment at not-for-profit pricing. Equipment can also be sourced through UNFPA and UNICEF offices in countries. **Simulation equipment** Specifications for mannequins are available at: **and mannequins •** WHO Neonatal resuscitation manikin: technical specifications - Neonatal Resuscitation Devices Planning for the course should include obtaining any items needed for essential newborn care that were found to be lacking in the inventory of available clinical equipment and supplies. A health worker",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 36,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p36_c04",
+    "text": "who has participated in ENCC should be able to deliver the care to newborns in the facility. It is unethical, and a waste of time and resources, to educate health workers if they do not have basic life-saving commodities and equipment at their place of work. The costs for any gaps in essential equipment and commodities need to be calculated and added to the budget. 22",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 36,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p37_c01",
+    "text": "**2. Planning and implementation** **Translation of materials** into local languages used by health workers is important for efficient and effective education. If translation of materials is required, the necessary permission should be sought, funds identified and adequate time allotted for preparation and verification of the translation. To ensure that the translation is correct, text from the translated materials should be translated back into the source language and compared with the original text. If adaptations to content are necessary, they should be completed before translation of any part of the course materials. WHO and Global Health Media Project (GHMP) videos are available in multiple languages, and a search for an existing translation should be done before embarking on voice-overs and subtitle translation. If translation of video materials is required, the necessary permission should be sought, funds identified and adequate time allotted for preparation and verification of the translation. Back-translation should be used to confirm correctness of the translated materials. Scripts and timings are available in English and some other languages on request for translation rights from the Global Health Media Project. The person recording voice-overs should speak clearly and slowly. GHMP-authorized translations will be produced in four formats, which can be downloaded onto",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 37,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p37_c02",
+    "text": "multiple devices, including smart phones and shared via the GHMP website. |**Translation**|Requests for permission to translate should be submitted through theWHO permissions website.| |**Reproduction/****reprinting**|Permission from WHO is not required for materials released under CreativeCommons licence as long as reuse is for noncommercial purposes onlyand outside a commercial environment/context. Specific print files andspecifications for local production are provided for the Action Plans, FacilitatorFlipcharts and Provider Guides. Printing costs should be calculated forcourse materials which are not used in digital format. These include posters(Action Plans), Clinical Practice Cards, Quality Improvement Templates, andkey references and forms, such as those used in thematic and cross-cuttingmodules.| |**Linking to digital****materials**|Any external website may provide a hyperlink to the WHO home page orcomplete pages that can be reached via navigation from the WHO home pagewithout requesting permission. Links should not be made directly to filesavailable for download, e.g. PDF files, but to the web page from which files canbe downloaded. The WHO emblem may not be used in providing a link.| 23",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 37,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p38_c01",
+    "text": "**Essential newborn care course - second edition** **Adaptation involves modifying the materials so they are suited to the country or regional context.** Adaptation takes into account local human resources and health system capacity, as well as local values and preferences and where and how health workers care for newborns. Country-level adaptation may not be necessary or may be a key part of the implementation process. Adaptation should be country-owned, country-led, context-specific and aligned with global and national policies, guidelines and standards for service delivery as well as the scope of practice for specific health workers. Adaptation needs to engage a diverse team, including active participation by end-users of the materials. Adaptations should be tested on different groups of end-users (pre-service and in-service) and health workers from different regions before finalization. Without adaptation of the materials to suit the context of implementation, end-users may find what they learn inappropriate for their setting, and they may be unable to translate what they learn into practice. |**Adaptation of**|Terms and conditions for using selected WHO published materials are set| |1.**language**|forth in the legal agreement linked on the permissions website. As part| |2.**photographs**|of licensed use, minimal alteration or adaptation of figures and tables|",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 38,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p38_c02",
+    "text": "|3.**illustrations**|is permitted to match the style of publication. Any other alteration or| |4.**videos**|modification (including abbreviations, additions or deletions) may be made| ||only with the prior written authorization of WHO. See next page for moredetails.| 24",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 38,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p39_c01",
+    "text": "**2. Planning and implementation**\n**1. Language level/cultural and contextual aspects**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 39,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p39_c02",
+    "text": "###### **2. Photographs**\n- Reading level may need to be revised for some end-users.\n- Character names: suitable local names increase relevance.\n- Simulations: including local concerns and common harmful practices helps target issues for change, e.g. including mothers with disabilities and adolescent mothers can highlight those who are marginalized or receive poor quality of care or poor communication and experience of care.\nPhotographs in the educational materials demonstrate content applicability to many different settings. If photographs are changed, they should be reviewed by content experts to confirm they illustrate recommended evidence-based practice.\n- WHO and UNICEF photo libraries (https://whophotosearch.who.int/) provide a source of images from all regions of the world with full metadata on context and credit.\n- Local photos should reflect diversity and inclusion of different social and ethnic groups. Consent must be obtained from persons shown in a photograph.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 39,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p39_c03",
+    "text": "###### **3. Illustrations**\nIllustrations that reflect the local context can help participants feel that the content is relevant to their work. Dress, hairstyle, equipment and surroundings in the health facility can be adapted to reflect the local context.\n- The Infant and Young Child Feeding image bank (IYCF image bank) contains illustrations for breastfeeding, cup feeding, and counselling and resources showing how local photographs can be converted into illustrations.\n- All adapted illustrations should be reviewed to ensure they align with recommended guidelines and represent safe newborn care.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 39,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p39_c04",
+    "text": "###### **4. Videos**\nMany videos in Essential Newborn Care Course second edition come from the Global Health Media Project. These are designed specifically to illustrate concepts, skills and performance of essential newborn care. Videos are available in several languages, with voice-overs or subtitles. UNICEF and WHO videos are available in the official UN languages (Arabic, Chinese, English, French, Russian and Spanish). If videos are produced locally, scripts should be reviewed by content experts to ensure they align with global guidelines and standards.\n- High-quality videos showing interventions correctly performed with respectful care of both mother and newborn are extremely time-consuming to make locally.\n- Adequate time and budget for oversight of production and review of videos by national experts are necessary to ensure correct practices.\n25",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 39,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p40_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 40,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p40_c02",
+    "text": "#### 2.5 Identify and support local leaders and champions Local and regional leaders and champions in health facilities and academic institutions form a crucial link between the national plan and local implementation. Local and regional leaders may be responsible for a network of health facilities at various levels or be opinion leaders within professional organizations or academic institutions. At every site offering ENCC there should be at least one and preferably two or three champions who serve as course directors and organizers; small sites may choose to share these roles. These persons should be experienced educators with practical, specialized knowledge and proven skills in organization and communication as well as newborn care. Champions from a variety of backgrounds (paediatrics, midwifery, neonatal nursing) promote interprofessional training. If possible, course organizers should be from the region in which the course is held and speak the local language(s). Including a champion with administrative or supervisory responsibilities in the facility favours making changes identified through observation of clinical practice and identification of quality improvement aims. Preparation of facilitators for implementing Essential Newborn Care Course second edition can utilize several approaches, including 1) update for experienced facilitators, 2) orientation and skill-building",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 40,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p40_c03",
+    "text": "for facilitator candidates, and 3) mentorship for development of facilitator competencies (see table below). Facilitator development should support educational programming across maternal, newborn and young infant subject areas. In some countries, academic institutions may have special expertise in simulation; such experts can be involved in the formation of national facilitators, who in turn help to capacitate facility champions. On the contrary, some faculty members at professional schools may need intensive support to renew their own practical skills before they can effectively lead demonstrations, skills practices and team simulations. The system for qualifying facilitators and maintaining oversight of educational activities should form part of the national implementation strategy.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 40,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "young_infant",
+      "age_scope": "up to 2 months"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p40_c04",
+    "text": "###### **Summary of objectives for the three approaches to facilitator preparation**\n- 1) Update for experienced **•** Access the educational materials for ENCC second edition facilitators **•** Identify major changes in content and format of materials **•** Use new educational methods effectively **•** Organize ENCC sessions (using ENCC at a Glance) **•** Link ENCC sessions with quality improvement activities\n- 2) Orientation and skill- **•** Access the educational materials for ENCC second edition building for facilitator **•** Understand the content and format of materials candidates **•** Define the characteristics of a good facilitator **•** Use the core educational methods effectively **•** Support the organization of ENCC sessions **•** Identify quality improvement targets as part of education\n- 3) Mentorship for development **•** Facilitate ENCC session(s) paired with an experienced mentor of facilitator competencies **•** Use facilitator competencies to jointly assess performance\n26",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 40,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p41_c01",
+    "text": "**2. Planning and implementation**\n- 2.6 Strengthen local systems for regular education, frequent refreshers and regular debriefing after clinical care and audits\nHealth workers in a training session at a hospital, Mongolia. © WHO / Yoshi Shimazu",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 41,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p41_c02",
+    "text": "##### **In-service education**\nEssential Newborn Care Course at a Glance provides detailed guidance for facilitators conducting educational sessions in health facilities. Essential Newborn Care Course is designed to be taught in many different environments where newborns receive care – in hospitals or health centres, in delivery rooms and postnatal wards at the community level, and in humanitarian situations. Experience in teaching ENCC has shown that participants are more likely to put new knowledge and skills into practice if they learn and follow up in their normal working environment. They are also more likely to notice gaps and improvements that they can make themselves as part of quality improvement, such as reorganizing the delivery room to ensure safety, privacy and ease of working. Where participants are widely dispersed geographically and patient volumes are low, planners may consider grouping participants geographically in one health facility and rotating educational sessions to the others each month or quarter, with facilitators travelling to minimize travel costs.\n27",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 41,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p42_c01",
+    "text": "**Essential newborn care course - second edition** Clinical practice sessions in ENCC rely on having newborns and mothers receiving care under routine facility conditions at the time of observation. Facilities with low delivery volumes will need to adapt by teaching small groups of participants. Clinical practice is ideally carried out with access to the delivery area, postnatal areas, kangaroo mother care beds and outpatient newborn clinic. ENCC materials can be used to provide a uniform and comprehensive educational foundation for all perinatal staff. All health workers who care for mothers and newborns during labour, delivery and the postnatal period should participate in training over time. Timing of educational sessions can be adjusted to ensure that all staff (including those who work nights and weekends) are included. The materials are suitable for orientation of recently graduated health workers and experienced health workers who are new to newborn care. The framework for evaluation/decision/ action and essential newborn skills can be covered in concentrated learning sessions of two or three days. Refresher education can be structured as periodic short sessions of several minutes, a few hours or a half day distributed over time. A designated education space fosters short, frequent and regular skill practice sessions by individuals, peer-to-peer learning and team",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 42,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p42_c02",
+    "text": "simulation. In order not to disrupt clinical care, sessions should be conducted with a small number of health workers and repeated. Staff identified by facilitators as having good skills can be mentored to facilitate for their colleagues in order to lighten the task and ensure sustainability. Self-reflection and debriefing after resuscitations, critical incidents, near-miss events, and discussions of morbidity or mortality can be especially effective learning opportunities. Patient care handovers and mentorship sessions also provide opportunities for low-dose, high-frequency refresher education. Periodic audits, such as Maternal Perinatal Death Surveillance and Response (MPDSR) and case reviews with analysis of systems issues and changes are additional opportunities for skills refreshers and even simulation. Regular (weekly or monthly) analysis of clinical outcomes in the facility can be used to inform and customize the educational focus. Costing and budget allocation should address both the scale-up of in-service education and annual recurrent programming. Funds should be available to cover expenses of materials and equipment as well as facilitator/ organizer time. However, if opportunities are used within existing systems, such as updating skills at existing supportive supervision or integrated outreach visits, additional costs for improvement in newborn care can be marginal.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 42,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p42_c03",
+    "text": "In situ education in health facilities significantly reduces costs associated with travel, per diems and fees paid for educational sessions outside the health facility. 28",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 42,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p43_c01",
+    "text": "**2. Planning and implementation**\nFaculty prepare for skills updates of health workers in the field linked to handover of mobile clinics, Philippines. © Helenlouise Taylor",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 43,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p43_c02",
+    "text": "##### **Pre-service education**\nEssential Newborn Care Course second edition content and methods can be effectively integrated into the core curriculum of pre-service education for all perinatal disciplines. Faculty will need to determine whether ENCC components are distributed through the curriculum or concentrated in preparation for clinical exposure. Adaptation may be included as part of national curricula review and approval to ensure fidelity and alignment with curricular objectives for different professional roles. The process should include time and resources for\n29",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 43,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p44_c01",
+    "text": "**Essential newborn care course - second edition**\nadaptation of materials, including approval, dissemination and building capacity for use of updated curricula. Developing a long-term plan for capacity-building of educators as part of support for implementation of the adapted curricula will improve the quality of education for essential newborn care.\nAdaptations should involve a broad group of stakeholders, including:\n- educators from public- and private-sector schools;\n- representatives from regulatory bodies (medical, nursing, midwifery);\n- the national curriculum development committee;\n- content experts;\n- representatives of professional associations and councils (paediatric and neonatology associations, ICM, ICN, COINN);\n- providers from diverse settings – including general medical officers and community health workers, as appropriate; and\n- students.\nMidwifery students sitting in a classroom at the Muhimbili School of Nursing and Midwifery, United Republic of Tanzania. © Laerdal Global Health\n30",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 44,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p45_c01",
+    "text": "**2. Planning and implementation**\nFor pre-service ENCC participants, the preferable course environment is a health facility as similar as possible to the real setting in which the students will work. For new learners, simulation in labs and realistically equipped training rooms is recommended before practising with mothers and infants who are being cared for in a health facility. If the clinical practice component is held separately in a health facility, transport may be required for participants and facilitators. A room in the clinical area should be designated for students, facilitators and clinical mentors to meet before the practice begins and debrief following the experience. ENCC education can be efficiently incorporated into the clinical placements of students, involving learners in supervised practice with Clinical Practice Cards, participation in refresher skills practice and team simulation exercises, debriefing and periodic audits, and quality improvement activities.\nFaculty preparing for infection prevention sessions in the field after destruction of WASH facilities, Philippines. © Helenlouise Taylor\n31",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 45,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p46_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 46,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p46_c02",
+    "text": "#### 2.7 Support the function of facility-level quality improvement teams Essential Newborn Care Course second edition or an educational session is only the first step in achieving improved patient outcomes: the quality improvement activities that follow are more important to achieving change in performance and – ultimately – change in outcomes. Essential Newborn Care Course second edition makes deliberate links to quality improvement. Both Essential Newborn Care 1 and 2 include “what to improve” and “what to measure” as each skill is presented. Clinical Practice Cards provide the opportunity to observe different aspects of clinical care delivery in the participant’s health facility through the lens of what has just been presented in the educational sessions. Gaps are noted and these gaps form the basis for prioritization of quality improvement aims in the Quality Improvement Template. Essential newborn care refresher education ideally moves in parallel with quality improvement initiatives aimed specifically at perinatal quality improvement. Facility-level quality improvement teams ought to include representation from delivery and postpartum areas, the operating theatre and post-operative recovery area as well as units providing newborn care. Leadership, oversight and aims for quality improvement should be coordinated with district-level quality improvement officers and",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 46,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p46_c03",
+    "text": "facility-level quality improvement teams. Regional quality collaboratives can advance the scale of quality improvement efforts towards shared improvement initiatives across facilities and benchmarking of specified outcomes. Regions with real-time online health data systems may choose to generate comparative status reports for maternal and newborn outcomes. These overviews, in turn, can inform subsequent educational and quality improvement activities. Reflective debriefing after a team simulation as part of the Safer Births Bundle of Care, United Republic of Tanzania. © Laerdal Global Health 32",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 46,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p47_c01",
+    "text": "**2. Planning and implementation**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 47,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p47_c02",
+    "text": "#### 2.8 Collect, report and use local data on a standardized set of basic process indicators for care and newborn outcomes\nHealth workers gather at the Gautampuri Mother and Child Welfare Centre, to monitor outcomes of routine immunization sessions, Delhi, India. © WHO / Christine McNab\nWhether paper-based, digital or a combination, local facility data is vital not only for providing essential newborn care but also for evaluating the quality of care, supporting decision-making in the facility and health system, and using quality improvement to create change. Essential Newborn Care Course second edition orients participants to the many uses of data in the cross-cutting module on data collection and use. Quality Improvement Templates initiate Plan-Do-Study-Act (PDSA) cycles and the use of data to evaluate tests of change and demonstrate sustained improvement. Through educational activities, health workers become engaged in collecting complete and accurate data and involved in determining what data to collect.\nENCC supports efforts to develop and utilize important perinatal datasets, including:\n1. civil and vital registration systems;\n2. HMIS indicators (utilizing uniform definitions/datasets);\n3. ENAP indicators;\n4. quality-of-care indicators; and\n5. facility-level and regional perinatal databases (e.g. ANA, CLAP).\n33",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 47,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p48_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 48,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p48_c02",
+    "text": "#### 2.9 Develop a system for bidirectional reporting and feedback to/from all levels of the health system and working group Essential Newborn Care Course’s potential benefits to health workers and the newborns they care for can be maximized through a system of reporting and feedback that links educational and clinical outcomes. Mapping the coverage of education alongside effective coverage of selected clinical interventions highlights where change is happening and can guide future educational planning and system change. In addition to coverage, monitoring the quality and fidelity of educational interactions is necessary to ensure that participants are afforded adequate practice opportunities and content responsive to their needs. The system for reporting in some settings will include formal reporting and credit for continuing professional development. Educational requirements for maintenance of professional certification, licensure and facility staff privileges can be strong incentives to participate in ENCC programming. In some health systems, accreditation of health facilities is based in part on educational activities, data collection and use. - 2.10 Engage and empower health workers, families and the broader community in the initiative Although Essential Newborn Care Course second edition focuses on education of health workers, essential newborn care engages not only with",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 48,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p48_c03",
+    "text": "health workers but also families and the broader community. Educational systems that listen to and focus on the health worker – meeting their needs and equipping them to do their job better and more easily – can change organizational culture from the grassroots. Peer-to-peer learning empowers health providers as teachers, not just learners, to spread new knowledge and skills and improve performance. The emphasis on communication and respectful care in ENCC spreads best practices to mothers and families. By modelling and engaging families in these practices in the facility, protective behaviours can be replicated in the home setting through the critical first month. Increasing community engagement also calls for integrating input from families and community leaders in the planning and implementation of educational activities. Family members may participate directly as standardized patient “actors” in simulations and thereby contribute to the formation and assessment of health-care workers. Family and community representatives also have a role in providing end-user evaluations of the experience of care, reviewing health facility data and participating as members of facility-level quality improvement teams. 34",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 48,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p49_c01",
+    "text": "**2. Planning and implementation**\n- Engagement of health workers, including community health workers, in political and community advocacy – making systems that listen to and focus on the health worker.\n- Engagement and education of families in providing care to the newborn.\n- Role for family and community representatives in health worker education and assessment.\n- Engagement of family and community representatives in review of health facility data and quality improvement initiatives (a system in which users can evaluate care).\nSoniya and Seema, accredited social health activists (ASHAs) talk about their work on the way back to the Gautampuri Maternal and Child Health Centre. They say their work is very satisfying. \"We are securing children's lives. Our work is really benefiting people.\" Gautampuri, Delhi, India. © WHO / Christine McNab\n35",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 49,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p50_c01",
+    "text": "**Essential newborn care course - second edition**\nHealth workers practising ventilation on a mannequin as part of the Safer Births Bundle of Care, United Republic of Tanzania. © Laerdal Global Health",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 50,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p51_c01",
+    "text": "# **3**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 51,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p51_c02",
+    "text": "### Linking education to functional health care delivery systems",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 51,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p51_c03",
+    "text": "#### 3.1 Linking education to functional delivery of essential newborn care The Utstein formula for survival (Fig. 4) offers a framework for improving health care systems and understanding variability in clinical outcomes among sites and countries ( _18_ ). The formula proposes that patient outcome is a product of three interacting factors: medical science (guideline quality), educational efficiency (knowledge translation to health workers) and local implementation (actual delivery of health care). Although originally proposed relative to cardiac arrest, the formula can be modified for newborn survival and quality of survival outcomes. When any factor in the equation is lacking, the overall result diminishes. When two or more factors are lacking, the multiplier effect produces a dramatically diminished patient outcome. Although strong evidence supports the key interventions for essential newborn care (medical science), both the education of health workers (educational efficiency) and actual provision of those key interventions to newborns (local implementation) are often lacking. Improvement in educational efficiency to transmit best practices and local implementation will improve newborn outcomes – not just survival, but also quality of survival. **Fig. 4 The Utstein formula for survival. The formula for survival multiplies the factors of medical science, educational",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 51,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p51_c04",
+    "text": "efficiency and local implementation to yield the product of newborn survival and quality of survival.** Newborn survivaland quality ofMedical Educational LocalsurvivalScience Efficiency ImplementationIdeal 100% X 100% X 100% = 100%Current 90% X 50% X 40% = 18%Target 90% X 90% X 90% = 73% 37",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 51,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p52_c01",
+    "text": "**Essential newborn care course - second edition** **Strengthening the local implementation factor involves simultaneous action on several fronts** – policy, administration, finances, infrastructure and physical environment, human resources, data management, technology, supply chain and logistics – in order to support clinical service delivery and attain educational objectives. Optimal outcomes are not being achieved where the knowledge and skills gained through educational activities cannot be applied in the health facility because of gaps in these core components. High-quality newborn care also demands linkage of maternal and newborn care in the facility, family and community involvement and support, and a post-discharge follow-up system at the facility and at home. Resources such as the WHO Guide for conducting national and subnational programme reviews for maternal, newborn, child and adolescent health _(19)_ and the accompanying programme review data tool can help accelerate widespread and successful implementation. Dr Rashmi Batra talks through routine immunization session planning with the Badshahpur health team, India. © WHO / Christine McNab **Essential newborn care incorporates multiple evidence-based interventions** identified as central not only to survival but also to supporting health and human development ( _20_ ). This was noted in the report of the Lancet",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 52,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p52_c02",
+    "text": "Commission on Optimizing Child Health and Human Development ( _4_ ). “Structural reforms are more likely to improve service quality substantially and at scale than are micro-level efforts. Promising approaches include governing for quality (e.g. leadership, expert management and learning systems), redesigning service delivery to maximize outcomes, and empowering families to better care for children and to demand quality care from health and social systems.” Strengthening the health-care system to provide essential newborn care creates the necessary solid foundation upon which to build coordinated perinatal services and more specialized neonatal services. 38",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 52,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c01",
+    "text": "**3. Linking education to health care delivery**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c02",
+    "text": "##### **Core components for essential newborn care**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c03",
+    "text": "###### **Vision, political commitment, leadership, national plan**\n– universal access to antenatal care, childbirth care in a health facility and early postnatal care; actualization of a national newborn plan",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c04",
+    "text": "###### **Financing**\n– health benefit package with coverage of facility-based childbirth and essential newborn care",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c05",
+    "text": "###### **Human resources**\n– quality care at birth (mother and baby) in a health facility by competent health workers",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c06",
+    "text": "###### **Infrastructure and design**\n– access to childbirth care in a health facility with zero-separation model; hygienic and supportive care environment (warmth, WASH facilities, maternal nutrition)\n**Equipment and commodities**\n– equipment and commodities to deliver essential newborn care and emergency obstetric and newborn care",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c07",
+    "text": "###### **Robust data system**\n- functional civil registration (birth and death) and health management information system\n**Functional referral system: network of care**\n– timely access to care points and purposeful referral patterns\n**Linkage of maternal and newborn care**\n- linkage of essential newborn care with emergency obstetric and newborn care; postnatal care for mother and newborn together",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p53_c08",
+    "text": "###### **Family and community involvement and support**\n–community engagement for facility birth; family support for kangaroo mother care\n**Discharge and follow-up system**\n–routine postnatal care and recognition/management of illness\n39",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 53,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p54_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 54,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p54_c02",
+    "text": "#### 3.2 Linking newborn and maternal care in health worker education and service delivery Essential newborn care does not stand alone; care of the newborn is closely linked with care of the pregnant woman and mother. All disciplines and cadres caring for the newborn should integrate competencies for essential newborn care into their curricula. Interprofessional education that embraces midwives, obstetricians, labour and delivery and postpartum nurses, medical officers, obstetricians and paediatricians reinforces a common knowledge base and shared skill set, and also promotes good communication and teamwork ( _21, 22_ ). Preparation of community health workers in essential newborn care is especially important to ensure continuation of best practices through the first weeks and months after birth. The process of quality improvement around essential newborn care often points to changes in either intrapartum or postnatal care. Although essential newborn care addresses basic neonatal resuscitation, primary prevention of intrapartum-related events requires collaboration with those providing care to the pregnant woman. Achieving the goal of zero separation of mother and newborn mandates parallel capabilities in maternal and newborn service delivery to avoid referral of one member of the dyad. The physical infrastructure of health facilities should support a zero-separation model.",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 54,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p54_c03",
+    "text": "When referral of either the woman or newborn is necessary, there should be purposeful referral to a facility that can provide the needed services and, ideally, transport of mother and newborn together with continued medical support. Postnatal follow-up of mother and newborn together is a potential strategy to improve disproportionately low rates of neonatal follow-up. Mother and her newborn baby in skin-to-skin contact immediately after birth, Mongolia. © WHO /Yoshi Shimizu 40",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 54,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c01",
+    "text": "**3. Linking education to health care delivery**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c02",
+    "text": "##### **Core components for linkage of maternal and newborn care delivery**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c03",
+    "text": "###### **Vision, political commitment, leadership, national plan**\n- a coordinated network of centres providing various levels of maternal and newborn care, including special care; alignment of policies for maternal\nand newborn care; joint leadership at all levels of the health system",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c04",
+    "text": "###### **Financing**\n– parallel development of maternal and newborn services to avoid unnecessary referral (and separation) of newborn or mother",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c05",
+    "text": "###### **Human resources**\n– education for both maternal and newborn care",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c06",
+    "text": "###### **Infrastructure and design**\n- access to childbirth care in a health facility with a zero-separation model",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c07",
+    "text": "###### **Equipment and commodities**\n- equipment and commodities to deliver essential newborn care and emergency obstetric and newborn care; alignment of services/equipment/ commodities at each facility",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c08",
+    "text": "###### **Robust data system**\n- linkage of maternal and newborn outcomes",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c09",
+    "text": "###### **Functional referral system: network of care**\n- timely access to care points and purposeful referral patterns for both maternal and neonatal conditions",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c10",
+    "text": "###### **Linkage of maternal and newborn care**\n- linkage of essential newborn care with emergency obstetric and newborn care; postnatal care for mother and newborn together",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c11",
+    "text": "###### **Family and community involvement and support**\n- recognition of danger signs for both women and newborns; specific care for maternal mental health and perinatal loss",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p55_c12",
+    "text": "###### **Discharge and follow-up system**\n- simultaneous postnatal care for mother and newborn\n41",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 55,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p56_c01",
+    "text": "**Essential newborn care course - second edition**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 56,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p56_c02",
+    "text": "#### 3.3 Essential newborn care as a foundation for small and sick newborn care\nSuccessful local implementation of essential newborn care is the foundation for extending its principles towards providing special care for small and sick newborn infants. Essential Newborn Care Course second edition incorporates the fundamentals of kangaroo mother care and in-depth resources for both thermal support and support of breastfeeding and breast-milk feeding of preterm and small newborns. Essential Newborn Care Course second edition develops assessment and reassessment skills, and the ability to formulate a plan of care for a facility stay – the basis of safe and individualized special newborn care. Without the fundamentals of strong perinatal and essential newborn care, more advanced interventions such as CPAP, infection management and treatment for other conditions often fail to achieve their intended impact.\nA premature baby in in kangaroo mother care is fed breast milk through a tube, Philippines. © WHO / Yoshi Shimizu\n42",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 56,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c01",
+    "text": "**3. Linking education to health care delivery**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c02",
+    "text": "##### **Core components for small and sick newborn care**",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c03",
+    "text": "###### **Vision, political commitment, leadership, national plan**\n– inclusion of special newborn care in a national newborn plan",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c04",
+    "text": "###### **Financing**\n– commitment to government financing, scope of plan consistent with available resources, planning for long-term financial sustainability; inclusion of small and sick newborn care in health benefit packages",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c05",
+    "text": "###### **Human resources**\n– personnel policy changes to support small and sick newborn care; leadership for specialized human resources at every level, including district and facility",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c06",
+    "text": "###### **Infrastructure and design**\n– sustainable, human-centred design with a zero-separation model",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c07",
+    "text": "###### **Equipment and commodities**\n– policy and regulation to support procurement, maintenance; creation of national essential equipment and medication lists for small and sick newborn care",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c08",
+    "text": "###### **Robust data system**\n- comprehensive data management systems, both clinical and operational; data analysis, use and feedback from facility to national level and back",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c09",
+    "text": "###### **Functional referral system: network of care**\n– planning to meet demand and care needs of population; coordination of public/private systems and transport networks",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c10",
+    "text": "###### **Linkage of maternal and newborn care**\n- linkage of special newborn care with comprehensive emergency obstetric and newborn care; postnatal care for mother and newborn together\n**Family and community involvement and support**\n– policy change for zero separation",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p57_c11",
+    "text": "###### **Discharge and follow-up system**\n- ongoing special care after discharge; linkage with education and family welfare\n43",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 57,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p58_c01",
+    "text": "### References 1. United Nations Children’s Fund. UNICEF Data: Neonatal mortality and Stillbirth. New York: United Nations Children's Fund; 2025 (https://data.unicef.org/topic/child-survival, accessed 02 June 2025). 2. World Health Organization. Trends in maternal mortality estimates 2000 to 2023: estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division. Geneva: World Health Organization; 2024 (https://www.who.int/publications/i/item/9789240108462, accessed 02 June 2025). 3. World Health Organization. Health and care workforce. Global strategy on human resources for health: workforce 2030. Geneva: World Health Organization; 2024 (https://apps.who.int/gb/e/e_eb156.html accessed 20 August 2025). 4. Kruk ME, Lewis TP, Arsenault C, Bhutta ZA, Irimu G, Jeong J et al. Improving health and social systems for all children in low and middle income countries: structural innovations to deliver high-quality services. Lancet. 2022; 399(10337): 1830–1844 (https://doi.org/10.1016/S1040-6736(21)02532-0). 5. Kruk ME, Gage AD, Joseph NT, Danaei G, García-Saisó, Salomon JA. Mortality due to low-quality health systems in the universal health coverage era: a systematic analysis of amenable deaths in 137 countries. Lancet. 2018; 392(10160): 2203–2212 (https://doi.org/10.1016/S0140-6736(18)31668-4). 6. World Health Organization. Survive and thrive: transforming care for every",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 58,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p58_c02",
+    "text": "small and sick newborn. Geneva: World Health Organization; 2019 (https://www.who.int/publications/i/item/9789241515887, accessed 02 June 2025). 7. WHO-UNICEF Expert and Country Consultation on Small and/or Sick Newborn Care Group. A comprehensive model for scaling up care for small and/or sick newborns at district level – based on country experiences presented at a WHO-UNICEF expert consultation. J Glob Health. 2023; 13: 03023 (https://doi.org/10.7189/jogh.13.03023). 8. Mduma E, Ersdal H, Svensen E, Kidanto H, Auestad B, Perlman J. Frequent brief on-site simulation training and reduction in 24-h neonatal mortality – An educational intervention study. Resuscitation. 2015; 93: 1–7. (https://doi.org/10.1016/j.resuscitation.2015.04.019). 9. Msemo G, Massawe A, Mmbando D, Rusibamayila N, Manji K, Kidanto HL et al. Newborn mortality and fresh stillbirth rates in Tanzania after Helping Babies Breathe training. Pediatrics. 2013; 131(2); e353–e360. (https://doi.org/10.1542/peds.2012-1795). 10. KC A, Wrammert J, Clark RB, Ewald Y, Vitrakoti R, Pushpa C et al. Reducing perinatal mortality in Nepal using Helping Babies Breathe. Pediatrics. 2016; 137(6): e20150117. (https://doi.org/10.1542/peds.2015- 0117). 11. KC A, Ewald U, Basnet O, Gurung A, Pyakuryal SN, Jha BK et al. Effect of a scaled-up neonatal resuscitation quality improvement package on intrapartum-related mortality in Nepal: A",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 58,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p58_c03",
+    "text": "stepped-wedge cluster randomized controlled trial. PLoS Med. 2019; 16(9): e1002900. (https://doi.org/10.1371/journal. pmed.1002900). 44",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 58,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p59_c01",
+    "text": "12. Vadla MS, Mduma ER, Kvaløy JT, Mdoe P, Hhoki BH, Sarangu S et al. Increase in newborns ventilated within the first minute of life and reduced mortality after clinical data-guided simulation training. Simulation in Healthcare. 2024; 19(5):271–280. (https://doi.org/10.1097/SIH.0000000000000740). 13. Mdoe P, Mduma E, Lafontan SR, Ersdal H, Massay C, Daudi V et al. Healthcare workers’ perceptions on the “Safer Births Bundle of Care”: A Qualitative study. Healthcare. 2023; 11(11):1589. (https://doi.org/10.3390/ healthcare11111589). 14. Li Z, Mannava P, Murray JCS, Sobel HL, Jatobatu A, Calibo A et al. Association between early essential newborn care and breastfeeding outcomes in eight countries in Asia and the Pacific: a cross-sectional observational study. BMJ Glob Health. 2020; 5(8): e002581. (https://doi.org/10.1136/bmjgh-2020- 002581). 15. Tosif S, Jatobatu A, Maepioh A, Gray A, Sobel H, Mannava P, Duke T. Healthcare worker knowledge and skills following coaching in WHO early essential newborn care program in the Solomon Islands: a prospective multi-site cohort study. BMC Pregnancy Childbirth. 2020; 20(1): 84. (https://doi.org/10.1186/ s12884-020-2739-z). 16. Tran HT, Mannava P, Murray JCS, Nguyen PTT, Tuyen LTM, Anh TH et al. Early essential newborn care is associated with reduced adverse neonatal outcomes in a tertiary hospital in Da Nang, Viet Nam: A prepost- intervention",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 59,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p59_c02",
+    "text": "study. EClinicalMedicine 2018; 6:51–58. (https://doi.org/10.1016/j.eclinm.2018.12.002). 17. Ersdal HL, Singhal N, Msemo G, KC A, Data S, Moyo NT et al. Successful implementation of Helping Babies Survive and Helping Mothers Survive programs – An Utstein formula for newborn and maternal survival. PLoS One. 2017; 12(6): e0178073. (https://doi.org/10.1371/journal.pone/0178073). 18. Søreide E, Morrison L, Hillman K, Monsieurs K, Sunde K, Zideman D et al. The formula for survival in resuscitation. Resuscitation. 2013; 84(11): 1487–1493. (https://doi.org/10.1016/j. resuscitation.2013.07.020). 19. World Health Organization. Guide for conducting national and subnational programme reviews for maternal, newborn, child and adolescent health. Geneva: World Health Organization; 2024 (https://www. who.int/publications/i/item/9789240088221, accessed 2 June 2025). 20. Vaivada T, Lassi ZS, Irfan O, Salam RA, Das JK, Oh C et al. What can work and how? An overview of evidence-based interventions and delivery strategies to support health and human development from before conception to 20 years. Lancet. 2022; 399(10337): 1810–1829. (https://doi.org/10.1016/S0140- 6736(21)02725-2). 21. Evans CL, Johnson P, Bazant E, Bhatnagar N, Zgambo J, Khamis AR. Competency-based training “Helping Mothers Survive: Bleeding after Birth” for providers from central and remote facilities in three countries. Int J",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 59,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p59_c03",
+    "text": "Gynaecol Obstet. 2014; 126(3): 286–290. (https://doi.org/10.1016/j.ijgo.2014.02.021). 22. Evans CL, Bazant E, Atukunda I, Williams E, Niermeyer S, Hiner C et al. Peer-assisted learning after onsite, low-dose, high-frequency training and practice on simulators to prevent and treat postpartum hemorrhage and neonatal asphyxia: A pragmatic trial in 12 districts in Uganda. PLoS One. 2018; 13(12): e0207909. (https://doi.org/10.1371/journal.pone.0207909). 45",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 59,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": null,
+      "age_scope": null
+    }
+  },
+  {
+    "chunk_id": "Essential Newborn Care Course, 2nd Edition, 2025_p62_c01",
+    "text": "For more information, please contact: **World Health Organization** 20 Avenue Appia 1211 Geneva 27 Switzerland\n**Department of Maternal, Newborn, Child and Adolescent Health and Ageing** Email: mncah@who.int Website: www.who.int/teams/maternal-newbornchild- adolescent-health-and-ageing/",
+    "metadata": {
+      "document_id": "Essential Newborn Care Course, 2nd Edition, 2025",
+      "page_number": 62,
+      "file_path": "data\\cleaned\\Essential Newborn Care Course, 2nd Edition, 2025.json",
+      "age_group": "newborn",
+      "age_scope": "newborn/neonate"
+    }
+  }
+]

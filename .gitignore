@@ -1,0 +1,53 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# Extra protection for API keys
+groq_api_key.txt
+
+
+# =========================
+# Local Application Data
+# =========================
+data/conversations/
+data/current_session.txt
+
+
+# =========================
+# Python Tools / Cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+data/qdrant/.lock
