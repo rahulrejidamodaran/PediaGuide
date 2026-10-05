@@ -28,6 +28,8 @@ uv sync
 This creates the virtual environment and installs all required
 dependencies from pyproject.toml and uv.lock.
 
+Then Activate the Venv : venv\Scripts\activate
+
 
 3. GET THE GROQ API KEY
 -----------------------
