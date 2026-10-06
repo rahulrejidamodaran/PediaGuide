@@ -525,44 +525,9 @@ function formatMessage(text) {
         return "";
     }
 
+    const markdownHtml = marked.parse(text);
 
-    let formatted = escapeHtml(text);
-
-
-    // Bold: **text**
-    formatted = formatted.replace(
-        /\*\*(.*?)\*\*/g,
-        "<strong>$1</strong>"
-    );
-
-
-    // Numbered list
-    formatted = formatted.replace(
-        /^\s*(\d+)\.\s+(.*)$/gm,
-        "<li>$2</li>"
-    );
-
-
-    // Bullet list
-    formatted = formatted.replace(
-        /^\s*[-*]\s+(.*)$/gm,
-        "<li>$1</li>"
-    );
-
-
-    // Convert groups of list items into <ul>
-    formatted = formatted.replace(
-        /(<li>.*?<\/li>)(?:\s*<li>)/gs,
-        "$1<li>"
-    );
-
-
-    // New lines
-    formatted = formatted.replace(/\n\n/g, "<br><br>");
-    formatted = formatted.replace(/\n/g, "<br>");
-
-
-    return formatted;
+    return DOMPurify.sanitize(markdownHtml);
 }
 
 

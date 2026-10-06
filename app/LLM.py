@@ -114,6 +114,9 @@ IMPORTANT RULES:
 - Do not ask the user to repeat information already present
   in the conversation.
 - Keep the answer clear and reasonably concise.
+-Format responses using clean Markdown.
+-Do not use raw HTML tags such as <br>, <div>, <span>, or <table>.
+-Use Markdown tables, bullet lists, numbered lists, headings, and bold text when appropriate.
 
 The retrieved evidence will be provided as [Source 1],
 [Source 2], etc.
